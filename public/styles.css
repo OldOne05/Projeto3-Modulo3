@@ -1,3 +1,18 @@
 html{
     background-color: rgb(173, 28, 28);
 }
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+::-webkit-scrollbar-track {
+    background: rgb(173, 28, 28); 
+}
+
+::-webkit-scrollbar-thumb {
+    background: #161a1d; 
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #0b090a; 
+}
