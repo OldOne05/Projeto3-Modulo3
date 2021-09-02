@@ -1,7 +1,7 @@
 import React from "react";
 import Titulo from "./components/Titulos.Sub/Titulo";
 import Sub from "./components/Titulos.Sub/Sub";
-import Paragrafos from "./components/Paragrafos/Parag";
+import Paragrafos from "./components/Paragrafos/Lista";
 import ImgeBotao from "./components/Img.e.botão/Img.e.botao";
 
 export default function App(){
