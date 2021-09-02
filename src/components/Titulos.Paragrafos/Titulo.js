@@ -1,11 +1,11 @@
 import React from "react";
-import "./Parag.css";
+import "./Titulo.css";
 
 export default function Texto(props) {
     return <p className="parag">{props.texto}</p>
 };
 
-export function Paragrafos(){
+export function Titulo(){
     return(
       <div>
         <Texto texto=""/>
